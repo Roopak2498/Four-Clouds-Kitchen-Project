@@ -35,7 +35,3 @@
 ![dribbble_1_1](https://github.com/Roopak2498/Four-Clouds-Kitchen-Project/assets/114271093/ee036638-125d-43c3-9fff-bb3f0703f899)
 
 <h1>Thank Your for visiting the Project....</h1>
-
-
-
-
